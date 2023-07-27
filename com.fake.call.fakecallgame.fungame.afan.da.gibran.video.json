@@ -116,13 +116,13 @@
       "image_url": "file:///android_asset/image/afanda7.png",
       "video_url": "afanda7",
       "voice_url": "afanda7.mp3"
-	} ,
+    },
     {
       "id": 7,
       "name": "Afan da Gibran Call 8",
       "image_url": "file:///android_asset/image/afanda8.png",
       "video_url": "afanda8",
       "voice_url": "afanda8.mp3"
-	} 
+   } 
   ]
-}
+ }
