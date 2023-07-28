@@ -67,7 +67,8 @@
       "link": "https://play.google.com/store/apps/details?id=com.fake.call.fakecallgame.fungame.pannggilan.teman.iseng"
     }
   ],
-  "Item": [
+  "Item":
+  [
     {
       "id": 0,
       "name": "Basmalah Gralind Call 1",
@@ -123,6 +124,7 @@
       "image_url": "file:///android_asset/image/basmalah8.png",
       "video_url": "basmalah8",
       "voice_url": "basmalah8.mp3"
-	} 
+    }
   ]
+
 }
